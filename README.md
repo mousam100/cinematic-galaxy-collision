@@ -6,7 +6,6 @@ The simulation uses a restricted N-body method inspired by Toomre & Toomre (1972
 
 The goal is to create a lightweight but visually engaging galaxy-collision simulation that can show tidal tails, bridges, and merger-like structures without using a full astrophysical simulation package.
 
-![Preview](preview.png)
 
 ---
 
